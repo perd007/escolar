@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_docentes" value="name:cedula;datatype:int,name:nombre;datatype:string,name:telefono;datatype:int,name:direccion;datatype:string,name:nivel;datatype:string,name:estudioA;datatype:string,name:seccion;datatype:string,name:grado;datatype:string,name:periodo;datatype:string,name:servicio;datatype:int,name:situacio;datatype:string" />
+</info>
